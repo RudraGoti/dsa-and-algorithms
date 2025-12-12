@@ -1,4 +1,4 @@
- // Problem: Array Duplicate.java
+ // Problem: Array Duplicate
  // Platform: GeeksgorGeeks 
  // Time Complexity: O(n) 
  // Space Complexity: O(1) 
