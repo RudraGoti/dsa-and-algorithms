@@ -1,0 +1,27 @@
+// Problem: Search insert position of K in a sorted array
+// Platform: GeeksforGeeks
+// Time Complexity: O(log n)
+// Space Complexity: O(1)
+
+class Solution {
+  public:
+    int searchInsertK(vector<int> &arr, int k) {
+        int low = 0, high = arr.size() - 1;
+
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if (arr[mid] == k) {
+                return mid;
+            }
+            else if (arr[mid] < k) {
+                low = mid + 1;
+            }
+            else {
+                high = mid - 1;
+            }
+        }
+        
+        return low;
+    }
+};
