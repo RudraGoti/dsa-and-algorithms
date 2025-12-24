@@ -1,4 +1,4 @@
- // Problem: Count Covered Buildings
+ // Problem: Count Covered Buildings.
  // Platform: LeetCode 
  // Time Complexity: O(m) 
  // Space Complexity: O(n) 
