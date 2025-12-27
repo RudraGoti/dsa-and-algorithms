@@ -1,7 +1,7 @@
-// Problem: Array Duplicate
+// Problem: Best Time to Buy and Sell stocks.cpp
 // Platform: Leetcode 
-// Time Complexity: O(n) 
-// Space Complexity: O(n) 
+// Time Complexity: O(k * n) 
+// Space Complexity: O(k * n) 
 
 class Solution {
 public:
