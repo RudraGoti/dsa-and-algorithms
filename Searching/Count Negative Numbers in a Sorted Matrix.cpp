@@ -1,4 +1,4 @@
-Problem: Count Negative Numbers in a Sorted Matrix.cpp
+Problem: Count Negative Numbers in a Sorted Matrix
 Platform: Leetcode
 Time Complexity: O(n + m)
 Space Complexity: O(1)
