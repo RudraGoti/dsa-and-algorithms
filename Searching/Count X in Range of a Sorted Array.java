@@ -1,7 +1,7 @@
-// Problem: Count X in Range of a Sorted Array
-// Platform: GeeksforGeeks
-// Time Complexity: O(n + q log n)
-// Space Complexity: O(n)
+Problem: Count X in Range of a Sorted Array
+Platform: GeeksforGeeks
+Time Complexity: O(n + q log n)
+Space Complexity: O(n)
 
   class Solution {
       public ArrayList<Integer> countXInRange(int[] arr, int[][] queries) {
