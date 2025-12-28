@@ -1,0 +1,26 @@
+Problem: Count Negative Numbers in a Sorted Matrix.cpp
+Platform: Leetcode
+Time Complexity: O(n + m)
+Space Complexity: O(1)
+
+class Solution {
+public:
+    int countNegatives(vector<vector<int>>& grid) {
+        int m = grid.size();
+        int n = grid[0].size();
+        
+        int row = 0, col = n - 1;
+        int count = 0;
+        
+        while (row < m && col >= 0) {
+            if (grid[row][col] < 0) {
+                count += (m - row);
+                col--;
+            } else {
+                row++;
+            }
+        }
+        
+        return count;
+    }
+};
