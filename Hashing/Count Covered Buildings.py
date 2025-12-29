@@ -1,7 +1,7 @@
- // Problem: Count Covered Buildings
- // Platform: LeetCode 
- // Time Complexity: O(m) 
- // Space Complexity: O(n) 
+Problem: Count Covered Buildings
+Platform: LeetCode 
+Time Complexity: O(m) 
+Space Complexity: O(n) 
 
 class Solution(object):
     def countCoveredBuildings(self, n, buildings):
