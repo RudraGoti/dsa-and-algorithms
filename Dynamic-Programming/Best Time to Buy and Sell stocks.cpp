@@ -1,7 +1,7 @@
-// Problem: Best Time to Buy and Sell stocks.cpp
-// Platform: Leetcode 
-// Time Complexity: O(k * n) 
-// Space Complexity: O(k * n) 
+Problem: Best Time to Buy and Sell stocks
+Platform: Leetcode 
+Time Complexity: O(k * n) 
+Space Complexity: O(k * n) 
 
 class Solution {
 public:
