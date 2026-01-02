@@ -1,9 +1,7 @@
-// Problem: Coupon Code Validator
-// Platform: Leetcode
-// Time Complexity: O(n log n)
-// Space Complexity: O(n) 
-
-import java.util.*;
+Problem: Coupon Code Validator
+Platform: Leetcode
+Time Complexity: O(n log n)
+Space Complexity: O(n) 
 
 class Solution {
     public List<String> validateCoupons(String[] code, String[] businessLine, boolean[] isActive) {
