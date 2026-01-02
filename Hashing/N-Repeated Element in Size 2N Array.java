@@ -1,4 +1,4 @@
-Problem: N-Repeated Element in Size 2N Array.java
+Problem: N-Repeated Element in Size 2N Array
 Platform: LeetCode
 Time Complexity: O(n)
 Space Complexity: O(1)
