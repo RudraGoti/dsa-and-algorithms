@@ -1,7 +1,7 @@
- // Problem: Count the Number of Computer Unlocking  Permutations
- // Platform: LeetCode 
- // Time Complexity: O(n log n)
- // Space Complexity: O(n) 
+Problem: Count the Number of Computer Unlocking  Permutations
+Platform: LeetCode 
+Time Complexity: O(n log n)
+Space Complexity: O(n) 
 
 class Solution(object):
     def countPermutations(self, complexity):
