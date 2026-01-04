@@ -1,7 +1,7 @@
- // Problem: Convert 1D Array Into 2D Array
- // Platform: LeetCode 
- // Time Complexity: O(m × n)
- // Space Complexity: O(m × n)
+Problem: Convert 1D Array Into 2D Array
+Platform: LeetCode 
+Time Complexity: O(m × n)
+Space Complexity: O(m × n)
 
 class Solution {
     public static int[][] construct2DArray(int[] original, int m, int n) {
