@@ -1,7 +1,7 @@
- Problem: Array Duplicate
- Platform: GeeksgorGeeks 
- Time Complexity: O(n) 
- Space Complexity: O(1) 
+Problem: Array Duplicate
+Platform: GeeksgorGeeks 
+Time Complexity: O(n) 
+Space Complexity: O(1) 
 
 class Solution {
     public ArrayList<Integer> findDuplicates(int[] arr) {
