@@ -1,7 +1,7 @@
-// Problem: Linked List in Binary Tree
-// Platform: LeetCode
-// Time Complexity: O(N × M)
-// Space Complexity: O(N) worst-case, O(log N) average
+Problem: Linked List in Binary Tree
+Platform: LeetCode
+Time Complexity: O(N × M)
+Space Complexity: O(N) worst-case, O(log N) average
 
 public class Solution {
     public boolean isSubPath(ListNode head, TreeNode root) {
