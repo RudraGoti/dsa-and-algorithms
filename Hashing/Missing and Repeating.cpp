@@ -1,7 +1,7 @@
- // Problem: Missing and Repeating 
- // Platform: GeeksforGeeks
- // Time Complexity: O(n) 
- // Space Complexity: O(1) 
+Problem: Missing and Repeating 
+Platform: GeeksforGeeks
+Time Complexity: O(n) 
+Space Complexity: O(1) 
 
 class Solution {
 public:
