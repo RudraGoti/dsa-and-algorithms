@@ -1,7 +1,7 @@
-// Problem: Minimum Penalty for a Shop
-// Platform: LeetCode 
-// Time Complexity: O(n) 
-// Space Complexity: O(n) 
+Problem: Minimum Penalty for a Shop
+Platform: LeetCode 
+Time Complexity: O(n) 
+Space Complexity: O(n) 
 
 class Solution {
 public:
