@@ -1,7 +1,7 @@
-// Problem: Maximum Happiness of Selected Children
-// Platform: Leetcode
-// Time Complexity: O(n log n)
-// Space Complexity: O(1)
+Problem: Maximum Happiness of Selected Children
+Platform: Leetcode
+Time Complexity: O(n log n)
+Space Complexity: O(1)
 
 class Solution(object):
     def maximumHappinessSum(self, happiness, k):
