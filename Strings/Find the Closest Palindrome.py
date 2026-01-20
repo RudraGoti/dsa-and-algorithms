@@ -14,10 +14,7 @@ class Solution(object):
         return int(s + r[::-1])
 
     def nearestPalindromic(self, n):
-        """
-        :type n: str
-        :rtype: str
-        """
+    
         if n == "1":
             return "0"
 
