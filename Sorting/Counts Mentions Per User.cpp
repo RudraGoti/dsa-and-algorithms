@@ -1,7 +1,7 @@
-// Problem: Counts Mentions Per User
- // Platform: Leetcode
- // Time Complexity: O(E.N)
- // Space Complexity: O(n) 
+Problem: Counts Mentions Per User
+Platform: Leetcode
+Time Complexity: O(E.N)
+Space Complexity: O(n) 
 
 class Solution {
 public:
