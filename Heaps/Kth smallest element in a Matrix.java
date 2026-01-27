@@ -1,7 +1,7 @@
-// Problem: Kth smallest element in a Matrix
-// Platform: GeeksforGeeks
-// Time Complexity: O(n log(max-min))
-// Space Complexity: O(1) 
+Problem: Kth smallest element in a Matrix
+Platform: GeeksforGeeks
+Time Complexity: O(n log(max-min))
+Space Complexity: O(1) 
 
 class Solution {
     public int kthSmallest(int[][] mat, int k) {
