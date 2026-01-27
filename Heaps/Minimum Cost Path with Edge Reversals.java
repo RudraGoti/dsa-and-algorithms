@@ -1,7 +1,7 @@
 Problem: Minimum Cost Path with Edge Reversals
 Platform: Leetcode
-Time Complexity: O(n log(max-min))
-Space Complexity: O(1) 
+Time Complexity: O((n+m)logn)
+Space Complexity: O(n+m)
 
 
 class Solution {
