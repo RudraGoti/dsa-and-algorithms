@@ -1,7 +1,7 @@
- // Problem: Most Stones Removed with Same Row or Column 
- // Platform: LeetCode 
- // Time Complexity: O(n^2) 
- // Space Complexity: O(n^2) 
+Problem: Most Stones Removed with Same Row or Column 
+Platform: LeetCode 
+Time Complexity: O(n^2) 
+Space Complexity: O(n^2) 
 
 class Solution {
     public int removeStones(int[][] stones) {
