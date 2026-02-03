@@ -1,7 +1,7 @@
- // Problem: Construct an array from its pair-sum array.java
- // Platform: GeeksforGeeks 
- // Time Complexity: O(n^2)
- // Space Complexity: O(n) 
+Problem: Construct an array from its pair-sum array
+Platform: GeeksforGeeks 
+Time Complexity: O(n^2)
+Space Complexity: O(n) 
 
 
 import java.util.*;
