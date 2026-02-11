@@ -1,7 +1,7 @@
-// Problem: Count elements less than or equal to k in a sorted rotated array
-// Platform: GeeksforGeeks
-// Time Complexity: O(n)
-// Space Complexity: O(1)
+Problem: Count elements less than or equal to k in a sorted rotated array
+Platform: GeeksforGeeks
+Time Complexity: O(n)
+Space Complexity: O(1)
 
 class Solution {
     public int countLessEqual(int[] arr, int x) {
