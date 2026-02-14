@@ -1,7 +1,7 @@
 Problem: Generate Permutations of an array
 Platform: GeeksforGeeks
 Time Complexity: O(n × n!)
-Space Complexity: O(n) 
+Space Complexity: O(n)
 
 class Solution {
     public static ArrayList<ArrayList<Integer>> permuteDist(int[] arr) {
