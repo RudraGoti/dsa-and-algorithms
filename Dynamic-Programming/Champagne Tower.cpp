@@ -4,7 +4,7 @@ Time Complexity: O(1)
 Space Complexity: O(1) 
 
 
-class Solution {
+class Solution  {
 public:
     double champagneTower(int poured, int query_row, int query_glass) {
         double dp[101][101] = {0.0};
