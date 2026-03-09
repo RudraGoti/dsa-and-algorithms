@@ -1,7 +1,7 @@
- // Problem: Delete Cloumn to Make Sorted 
- // Platform: Leetcode 
- // Time Complexity: O(m^2 * n) 
- // Space Complexity: O(m) 
+Problem: Delete Cloumn to Make Sorted 
+Platform: Leetcode 
+Time Complexity: O(m^2 * n) 
+Space Complexity: O(m) 
 
 class Solution(object):
     def minDeletionSize(self, strs):
