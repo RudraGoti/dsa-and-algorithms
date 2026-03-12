@@ -1,7 +1,7 @@
-// Problem: Path with Maximum Probability
-// Platform: LeetCode 
-// Time Complexity: O(n^2) 
-// Space Complexity: O(n^2) 
+Problem: Path with Maximum Probability
+Platform: LeetCode 
+Time Complexity: O(n^2) 
+Space Complexity: O(n^2) 
 
 class Solution {
 public:
